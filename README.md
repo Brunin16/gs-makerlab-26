@@ -12,8 +12,8 @@ Evolução do carrinho-robô 4WD (CP1 → CP2 → GS): o ESP32 lê um **sensor u
 | ------------- | -- |
 | Bruno Eduardo Caputo Paulino | 558303 |
 | Lucas Rodrigues | 98344 |
-| **[PREENCHER: nome completo]** | 552202 |
-| **[PREENCHER: nome completo]** | 98118 |
+| Juan Pinheiro de França | 552202 |
+| Kaiky Alvaro Miranda | 98118 |
 
 ## 🎥 Vídeo de demonstração (até 6 min)
 
@@ -32,7 +32,6 @@ Evolução do carrinho-robô 4WD (CP1 → CP2 → GS): o ESP32 lê um **sensor u
 | **Arquitetura: componentes** | ESP32 WROOM-32 · chassi 4WD + ponte H L298N · HC-SR04 (distância) · LDR + LED (luminosidade/farol) · display OLED SSD1306 · buzzer · controle BLE (Dabble) · modelo TinyML (Edge Impulse). Detalhes na seção 4. |
 | **Fontes de dados** | Dados próprios coletados pelo sensor: 15 séries de distância (605 amostras, 10 Hz) em `dataset/` e leituras do LDR (0–4095) em tempo real. Metodologia e limitações em `dataset/LEIAME_dataset.txt`. |
 | **Modelos de IA utilizados** | Rede neural densa (Edge Impulse, *raw data*, janela de 2 s, 3 classes: `livre`, `aproximando`, `obstaculo`), quantizada em int8 e executada no ESP32. |
-| **URL do MVP e repositório** | Repositório: **[PREENCHER: URL deste repositório]** · MVP da equipe (outras disciplinas): **[PREENCHER: URL do MVP]** |
 | **Indicadores de impacto** | Ver seção 8. |
 | **ODS conectados** | 11, 10 e 9 (seção 7). |
 
