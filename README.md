@@ -15,9 +15,9 @@ Evolução do carrinho-robô 4WD (CP1 → CP2 → GS): o ESP32 lê um **sensor u
 | Juan Pinheiro de França | 552202 |
 | Kaiky Alvaro Miranda | 98118 |
 
-## 🎥 Vídeo de demonstração (até 6 min)
+## 🎥 Vídeo de demonstração
 
-**[PREENCHER: link do vídeo (YouTube não listado ou link público que abra em janela anônima)]**
+**[Assista ao vídeo de demonstração](https://youtu.be/7SqCHShV9xU)**
 
 ---
 
